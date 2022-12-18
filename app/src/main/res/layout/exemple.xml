@@ -1,0 +1,49 @@
+<?xml version="1.0" encoding="utf-8"?>
+<LinearLayout xmlns:android="http://schemas.android.com/apk/res/android"
+    android:layout_width="match_parent"
+    android:layout_height="match_parent"
+    xmlns:app="http://schemas.android.com/apk/res-auto"
+    android:orientation="horizontal"
+    android:background="@drawable/gradient">
+
+    <LinearLayout
+        android:layout_width="match_parent"
+        android:layout_height="wrap_content"
+        android:orientation="horizontal"
+        android:paddingTop="20dp"
+        android:paddingBottom="10dp">
+
+        <de.hdodenhof.circleimageview.CircleImageView
+            android:id="@+id/imageView"
+            android:layout_width="90dp"
+            android:layout_height="90dp"
+            android:src="@drawable/pic"
+            android:layout_marginTop="7dp"/>
+        <LinearLayout
+            android:layout_width="match_parent"
+            android:layout_height="wrap_content"
+            android:padding="20dp"
+            android:orientation="vertical"
+            android:gravity="center">
+            <TextView
+                android:id="@+id/name"
+                android:layout_width="match_parent"
+                android:layout_height="wrap_content"
+                android:text="@string/full_name"
+                android:textSize="19sp"
+                android:textColor="@color/yellow_creme"/>
+            <TextView
+                android:id="@+id/message"
+                android:layout_width="match_parent"
+                android:layout_height="wrap_content"
+                android:text="@string/message"
+                android:singleLine="true"
+                android:textStyle="bold"
+                android:textSize="22sp"
+                android:textColor="@color/yellow_creme"
+                android:layout_marginTop="10dp"/>
+        </LinearLayout>
+
+    </LinearLayout>
+
+</LinearLayout>

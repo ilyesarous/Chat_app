@@ -1,0 +1,27 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="DesignSurface">
+    <option name="filePathToZoomLevelMap">
+      <map>
+        <entry key="..\:/facDeSc/dev_app_mobil/IlyesArousLSI3/projet/chat-app/app/src/main/res/drawable/cercle.xml" value="0.158" />
+        <entry key="..\:/facDeSc/dev_app_mobil/IlyesArousLSI3/projet/chat-app/app/src/main/res/drawable/gradient.xml" value="0.158" />
+        <entry key="..\:/facDeSc/dev_app_mobil/IlyesArousLSI3/projet/chat-app/app/src/main/res/drawable/gradient1.xml" value="0.158" />
+        <entry key="..\:/facDeSc/dev_app_mobil/IlyesArousLSI3/projet/chat-app/app/src/main/res/drawable/ic_baseline_menu_24.xml" value="0.158" />
+        <entry key="..\:/facDeSc/dev_app_mobil/IlyesArousLSI3/projet/chat-app/app/src/main/res/drawable/ic_sans_titre.xml" value="0.158" />
+        <entry key="..\:/facDeSc/dev_app_mobil/IlyesArousLSI3/projet/chat-app/app/src/main/res/drawable/rectangle.xml" value="0.158" />
+        <entry key="..\:/facDeSc/dev_app_mobil/IlyesArousLSI3/projet/chat-app/app/src/main/res/layout/activity_home.xml" value="0.25" />
+        <entry key="..\:/facDeSc/dev_app_mobil/IlyesArousLSI3/projet/chat-app/app/src/main/res/layout/activity_main.xml" value="0.25" />
+        <entry key="..\:/facDeSc/dev_app_mobil/IlyesArousLSI3/projet/chat-app/app/src/main/res/layout/activity_signup.xml" value="0.25" />
+        <entry key="..\:/facDeSc/dev_app_mobil/IlyesArousLSI3/projet/chat-app/app/src/main/res/layout/activity_splash.xml" value="0.25" />
+        <entry key="..\:/facDeSc/dev_app_mobil/IlyesArousLSI3/projet/chat-app/app/src/main/res/layout/exemple.xml" value="0.25" />
+      </map>
+    </option>
+  </component>
+  <component name="ExternalStorageConfigurationManager" enabled="true" />
+  <component name="ProjectRootManager" version="2" languageLevel="JDK_11" default="true" project-jdk-name="Android Studio default JDK" project-jdk-type="JavaSDK">
+    <output url="file://$PROJECT_DIR$/build/classes" />
+  </component>
+  <component name="ProjectType">
+    <option name="id" value="Android" />
+  </component>
+</project>
